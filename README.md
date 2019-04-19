@@ -1,2 +1,4 @@
-# rl-intro-book-2018
-My solutions to the exercises in "Reinforcement Learning: An Introduction" by Sutton and Barto (2nd Edition, 2018)
+# Reinforcement Learning: An Introduction (2nd Edition) \[Sutton and Barto, 2018\]
+My solutions to the programming exercises in "Reinforcement Learning: An Introduction" (2nd Edition) \[Sutton and Barto, 2018\]
+
+### Solved exercises
