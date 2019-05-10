@@ -7,6 +7,8 @@ My solutions to the programming exercises in "Reinforcement Learning: An Introdu
   - [Exercise 11](https://github.com/jStojcheski/rl-intro-2018/blob/master/02_multi_armed_bandits/ch02_ex11.ipynb)
 
 - Chapter 4: Dynamic Programming
+  - [Exercise 7: Policy-iteration implementation](https://github.com/jStojcheski/rl-intro-2018/blob/master/04_dynamic_programming/ch04_ex07_policy_iteration.ipynb) ([Original code by Sutton & Barto written in LISP](http://incompleteideas.net/book/code/jacks.lisp))
+  - [Exercise 7: Value-iteration implementation](https://github.com/jStojcheski/rl-intro-2018/blob/master/04_dynamic_programming/ch04_ex07_value_iteration.ipynb) ([Original code by Sutton & Barto written in LISP](http://incompleteideas.net/book/code/jacks.lisp))
   - [Exercise 9](https://github.com/jStojcheski/rl-intro-2018/blob/master/04_dynamic_programming/ch04_ex09_value_iteration.ipynb)
 
 
