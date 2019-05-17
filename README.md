@@ -11,5 +11,7 @@ My solutions to the programming exercises in "Reinforcement Learning: An Introdu
   - [Exercise 7: Value-iteration implementation](https://github.com/jStojcheski/rl-intro-2018/blob/master/04_dynamic_programming/ch04_ex07_value_iteration.ipynb) ([Original code by Sutton & Barto written in LISP](http://incompleteideas.net/book/code/jacks.lisp))
   - [Exercise 9](https://github.com/jStojcheski/rl-intro-2018/blob/master/04_dynamic_programming/ch04_ex09_value_iteration.ipynb)
 
+- Chapter 6: Temporal-Difference Learning
+  - [Exercises 9 & 10](https://github.com/jStojcheski/rl-intro-2018/blob/master/06_temporal_difference_learning/ch06_ex09_ex10.ipynb)
 
 Any bug reports and suggestions are welcome! Please feel free to contact me at __jugoslav.stojcheski\<at\>gmail.com__
