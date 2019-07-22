@@ -17,4 +17,7 @@ My solutions to the programming exercises in "Reinforcement Learning: An Introdu
 - Chapter 6: Temporal-Difference Learning
   - [Exercises 9 & 10: Windy Gridworld with King's Moves & Stochastic Wind](https://github.com/jStojcheski/rl-intro-2018/blob/master/06_temporal_difference_learning/ch06_ex09_ex10.ipynb)
 
+- Chapter 8: Planning and Learning with Tabular Methods
+  - [Exercise 4](https://github.com/jStojcheski/rl-intro-2018/blob/master/08_planning_and_learning_with_tabular_methods/ch08_ex04.ipynb)
+
 Any bug reports and suggestions are welcome! Please feel free to contact me at __jugoslav.stojcheski\<at\>gmail.com__
