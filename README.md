@@ -7,8 +7,8 @@ My solutions to the programming exercises in "Reinforcement Learning: An Introdu
   - [Exercise 11](https://github.com/jStojcheski/rl-intro-2018/blob/master/02_multi_armed_bandits/ch02_ex11.ipynb)
 
 - Chapter 4: Dynamic Programming
-  - [Exercise 7: Policy-iteration implementation](https://github.com/jStojcheski/rl-intro-2018/blob/master/04_dynamic_programming/ch04_ex07_policy_iteration.ipynb) ([Original code by Sutton & Barto written in LISP](http://incompleteideas.net/book/code/jacks.lisp))
-  - [Exercise 7: Value-iteration implementation](https://github.com/jStojcheski/rl-intro-2018/blob/master/04_dynamic_programming/ch04_ex07_value_iteration.ipynb) ([Original code by Sutton & Barto written in LISP](http://incompleteideas.net/book/code/jacks.lisp))
+  - [Exercise 7: Policy-iteration implementation](https://github.com/jStojcheski/rl-intro-2018/blob/master/04_dynamic_programming/ch04_ex07_policy_iteration.ipynb)<sup>1</sup>
+  - [Exercise 7: Value-iteration implementation](https://github.com/jStojcheski/rl-intro-2018/blob/master/04_dynamic_programming/ch04_ex07_value_iteration.ipynb)<sup>1</sup>
   - [Exercise 9](https://github.com/jStojcheski/rl-intro-2018/blob/master/04_dynamic_programming/ch04_ex09_value_iteration.ipynb)
 
 - Chapter 5: Monte Carlo Methods
@@ -19,5 +19,8 @@ My solutions to the programming exercises in "Reinforcement Learning: An Introdu
 
 - Chapter 8: Planning and Learning with Tabular Methods
   - [Exercise 4](https://github.com/jStojcheski/rl-intro-2018/blob/master/08_planning_and_learning_with_tabular_methods/ch08_ex04.ipynb)
+  - [Exercise 8](https://github.com/jStojcheski/rl-intro-2018/blob/master/08_planning_and_learning_with_tabular_methods/ch08_ex08.ipynb)
+
+<sup>1</sup> [Original code by Sutton & Barto written in LISP](http://incompleteideas.net/book/code/jacks.lisp)
 
 Any bug reports and suggestions are welcome! Please feel free to contact me at __jugoslav.stojcheski\<at\>gmail.com__
